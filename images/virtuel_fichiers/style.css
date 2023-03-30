@@ -1,0 +1,45 @@
+.m1{
+    display: flex;
+}
+
+.s1{
+margin-left: 50px;
+margin-top: 22px;
+
+}
+.s2{
+  margin-left: 10px;
+ 
+}
+.s4{
+  margin-left: 400px;
+  margin-top: 50px;
+}
+
+.s5{
+  margin-top: 20px;
+  margin-left: 200px;
+}
+.menu{
+  display: flex;
+  list-style: none;
+  justify-content: space-around;
+  background-color :#424242;
+  padding:20px ; 
+}
+
+
+.menu a:hover {
+  cursor: pointer;
+  color:yellow;
+}
+
+.d2{
+  background-color: gainsboro;
+  padding: 20px;
+ 
+ 
+}
+.e2{
+  text-align: center;
+}
